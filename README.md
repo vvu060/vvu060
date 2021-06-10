@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there, I am Vishal Urankar 👋
+### I Eat, sleep and Breath React.
+
+- 🔭 I’m currently working on E-Commerce app for Agricultural sector.
+- 🌱 I’m currently learning Next JS, Unit Testing and Tailwind CSS.
 
 <!--
 **vvu060/vvu060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
