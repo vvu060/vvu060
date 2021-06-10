@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on E-Commerce app for Agricultural sector and LMS Portal.
 - 🌱 I’m currently learning Next JS, Unit Testing and Tailwind CSS.
 - 🔍 I'm looking forward to explore MERN Stack.
-- 💬 We can connect on LinkedIn [https://www.linkedin.com/in/vishal-urankar/]
+- 💬 We can connect on [LinkedIn] (https://www.linkedin.com/in/vishal-urankar/)
 - 👷‍♂️ Don't foget to checkout some of my work.
 
 <!--
