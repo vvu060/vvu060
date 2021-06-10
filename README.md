@@ -1,8 +1,11 @@
 ## Hi there, I am Vishal Urankar 👋
 ### I Eat, sleep and Breath React.
 
-- 🔭 I’m currently working on E-Commerce app for Agricultural sector.
+- 🔭 I’m currently working on E-Commerce app for Agricultural sector and LMS Portal.
 - 🌱 I’m currently learning Next JS, Unit Testing and Tailwind CSS.
+- 🔍 I'm looking forward to explore MERN Stack.
+- 💬 We can connect on LinkedIn [https://www.linkedin.com/in/vishal-urankar/]
+- 👷‍♂️ Don't foget to checkout some of my work.
 
 <!--
 **vvu060/vvu060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
