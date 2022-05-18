@@ -1,9 +1,9 @@
 ## Hi there, I am Vishal Urankar 👋
 ### I Eat, sleep and Breath React.
 
-- 🔭 I’m currently working on E-Commerce app for Agricultural sector and LMS Portal.
-- 🌱 I’m currently learning Next JS, Unit Testing and Tailwind CSS.
-- 🔍 I'm looking forward to explore the MERN Stack.
+- 🔭 I’m currently working on Disney Plus App for TV/PS5 and Xbox.
+- 🌱 I’m currently learning React Native, Solidity and Crypto Trading.
+- 🔍 I'm looking forward to explore the Web3.0 space.
 - 💬 We can connect on LinkedIn
 - 👷‍♂️ Don't foget to checkout some of my work.
 
